@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-ch1=int(input('введите чиcло 1:'))
-ch2=int(input('введите чиcло 2:'))
-ch3=int(input('введите чиcло 3:'))
+ch1=int(input())
+ch2=int(input())
+ch3=int(input())
 lst=[ch1,ch2,ch3]
 n=1
 while n<len(lst):
@@ -22,5 +22,6 @@ print (a)
 
 #lst.sort()
 #print (lst)
+
 
 

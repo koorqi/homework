@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-sum_tarelok=int(input("Введите кол-во тарелок:"))
-sum_sredstvo=float(input("Введите кол-во средства:"))
+sum_tarelok=int(input())
+sum_sredstvo=float(input())
 if sum_tarelok<=0 or sum_sredstvo<=0:
     print ('неверный ввод')
 
